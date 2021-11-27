@@ -1,4 +1,4 @@
-# AuthBearerJwt - altenticação e altorização com Jwt via token 
+# AuthBearerJwt - autenticação e autorização com Jwt via token 
 
 Este projeto utiliza .NET 5 versão SDK 5.0.403. 
 
